@@ -5,6 +5,8 @@
 
 ![alt tag](https://cloud.githubusercontent.com/assets/6304331/19288321/3f672da8-9051-11e6-877d-40351919c6f2.png)
 
+<b>C++</b>
+![alt tag](https://cloud.githubusercontent.com/assets/6304331/19288926/14bd8414-9054-11e6-802f-0c464712cd12.jpg)
 
 <b>CtrlP</b>
 
