@@ -18,7 +18,7 @@ highlight Search     ctermfg=15 ctermbg=2
 highlight StatusLine ctermfg=10 ctermbg=4
 highlight StatusLineNC ctermfg=0 ctermbg=8
 highlight LineNr    ctermfg=4
-highlight ColorLineNr    ctermfg=12
+highlight CursorLineNr    ctermfg=12
 highlight Visual    ctermbg=4 ctermfg=10
 highlight Title    ctermfg=10
 highlight VertSplit    ctermfg=12 ctermbg=0
