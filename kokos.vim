@@ -5,7 +5,7 @@ if exists("syntax_on")
   syntax reset
 endif
 let g:colors_name = "kokos"
-
+  
 highlight EndOfBuffer    ctermfg=3
 highlight NonText    ctermfg=7
 highlight Type       ctermfg=12
@@ -22,6 +22,8 @@ highlight CursorLineNr    ctermfg=12
 highlight Visual    ctermbg=4 ctermfg=10
 highlight Title    ctermfg=10
 highlight VertSplit    ctermfg=12 ctermbg=0
+highlight Search ctermfg=10 ctermbg=9
+highlight IncSearch ctermfg=14 ctermbg=4
 
 highlight ColorColumn ctermbg=4
 highlight CursorLine    cterm=none ctermbg=1
